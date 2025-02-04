@@ -1,18 +1,7 @@
 ### Hi there 👋
 
-Welcome to my Github **HOMEPAGE**, I am a Emacs lover and C/C++ developer.
-
-### Working in progress... :briefcase:
-- [flymacs](https://github.com/FlyfishO25/.emacs.d), an easy-to-use and beautiful Emacs configuration. Now looking for collaborate 😄.
-
-### How to reach me:
-- [:incoming_envelope: mail](mailto:markzhou0125@gmail.com)
-
-### Currently learing :book:
-- C/C++
-- javascript
-- elisp
-- python
+Why not come and see
+[my blog](flyfish.info).
 
 <!--- ### Fun fact ⚡ -->
 
